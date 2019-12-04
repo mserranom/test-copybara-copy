@@ -1,4 +1,2 @@
 # test-copybara-copy
-readme
-
-OTHER
+three
